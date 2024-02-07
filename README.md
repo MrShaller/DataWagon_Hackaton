@@ -32,8 +32,14 @@ https://drive.google.com/drive/folders/1Qh5ZMSDOJ0d0XuInbW4DyiuhaZ1mfmOv
 
 Solve
 ---
+The idea proposed by us is illustrated in the following diagram. Our team split into two parts. One part refined the algorithm, while the other processed the data and built the ML model.
 
-![Текст с описанием картинки](/diagrama2.png)
+The entire implemented code is available in an IPython notebook in Russian.
+
+<p align="center">
+  <img src="/diagrama2.png" alt="Algorithm/Decision-making process">
+</p>
+
 
 
 
