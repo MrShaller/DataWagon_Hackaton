@@ -30,7 +30,10 @@ The business value of the solution is determined by the number of hidden correla
 All source data and their descriptions are presented in Russian at the following link:
 https://drive.google.com/drive/folders/1Qh5ZMSDOJ0d0XuInbW4DyiuhaZ1mfmOv
 
+Solve
+---
 
+![Текст с описанием картинки](/diagrama2.png)
 
 
 
