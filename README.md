@@ -1,6 +1,6 @@
 # DataWagon_Hackaton
 
-This is [DataWagon hackaton][1] which we (I, [Mikhail Vitko][2] and Efimova Anastasia) have participated and secured a spot in the top 5 out of 40 teams by the end of the competition. 
+This is [DataWagon hackaton][1] which we (I, [Mikhail Vitko][2] and [Efimova Anastasia][3]) have participated and secured a spot in the top 5 out of 40 teams by the end of the competition. 
 
 **Task:**
 Create a model for predicting the date of a wagon's scheduled maintenance.
@@ -45,3 +45,4 @@ The entire implemented code is available in an IPython notebook in Russian.
 
 [1]: https://datawagon.ru/
 [2]: https://github.com/mishantique
+[3]: https://github.com/ponyotyan
